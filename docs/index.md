@@ -10,7 +10,7 @@ In this unit, you will program a top-down game with the objective of throwing fo
 
 As you build the prototype, you will become familiar with some of the most important programming and Unity concepts, including:
 * if-then statements,
-* random value generation,
+* random number generation,
 * arrays,
 * collision detection,
 * prefabs,
